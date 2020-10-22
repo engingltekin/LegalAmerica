@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGAClient", "LGAClient\LGAClient.csproj", "{BE80A963-B5C9-4037-8EA6-FFE0C494B633}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGAClient.Tests", "LGAClient.Tests\LGAClient.Tests.csproj", "{B6E89A7F-4721-494F-9656-9D4ECA560133}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE80A963-B5C9-4037-8EA6-FFE0C494B633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE80A963-B5C9-4037-8EA6-FFE0C494B633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE80A963-B5C9-4037-8EA6-FFE0C494B633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE80A963-B5C9-4037-8EA6-FFE0C494B633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6E89A7F-4721-494F-9656-9D4ECA560133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6E89A7F-4721-494F-9656-9D4ECA560133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6E89A7F-4721-494F-9656-9D4ECA560133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6E89A7F-4721-494F-9656-9D4ECA560133}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C85113DE-3346-4399-A481-5B3A7A46A0DE}
+	EndGlobalSection
+EndGlobal

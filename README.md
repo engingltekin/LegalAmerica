@@ -9,8 +9,9 @@ Build an .Net Core and Code First Entity Framework Application
 4. Used both Data Annotations and Fluent Validation for Model validations. 
 5. Placed a Javascript file to show Javascript capabilities personList.js under wwwroot. 
 6. Used Docker Containers
+7. Did not write 100 % Unit Test coverage.
 
 
 # TECNOLOGY
 
-.Net Core, MVC, Entity Framework Core, C#
+.Net Core, MVC, Entity Framework Core, C#, XUnit
